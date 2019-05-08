@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  font-family: "Raleway", sans-serif;
+} /*"border-box" means that the width and height properties (and min/max properties) include content, padding and border*/
+
+main {
+  padding: 0 33vw 5vh 33vw;
+}
+
+#svg_timeline {
+  position: relative;
+}
+
+#divText1 {
+  position: absolute;
+}
+
+#timelineTitle {
+  text-align: center;
+  color: #cccccc;
+  font-size: 3.7vh;
+  font-weight: bold;
+}
+
+.header-area1 {
+  font-size: 25px;
+  line-height: 25px;
+  padding: 30px;
+  margin: 0%;
+  height: 85px;
+}
+
+header a:link {
+  margin-right: 4%;
+  margin-top: 50%;
+  transform: translate(-50%);
+  font-weight: bolder;
+  color: #000000;
+  text-decoration: none;
+}
+
+.dates {
+  font-weight: bold;
+  color: #ffffff;
+}
+.places {
+  color: #888888;
+}
