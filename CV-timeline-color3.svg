@@ -354,7 +354,7 @@
       </g>
     </mask>
   </defs>
-  <title>CV-timeline-color</title>
+  <title>CV-timeline-color3</title>
   <g class="cls-1">
     <g id="Tasks">
       <text id="Task10" class="cls-2" transform="translate(71.4 2593) scale(0.75 1)"><tspan class="cls-3">M</tspan><tspan x="18.2" y="0">as</tspan><tspan class="cls-4" x="40.4" y="0">t</tspan><tspan x="47.9" y="0">e</tspan><tspan class="cls-5" x="60.4" y="0">r</tspan><tspan x="67.7" y="0" xml:space="preserve"> De</tspan><tspan class="cls-6" x="100.4" y="0">r</tspan><tspan x="107.7" y="0">ee Cultu</tspan><tspan class="cls-7" x="191.9" y="0">r</tspan><tspan x="199.6" y="0">a</tspan><tspan class="cls-8" x="211.4" y="0">l</tspan><tspan x="217.1" y="0" xml:space="preserve">  </tspan><tspan class="cls-9" x="227.5" y="0">S</tspan><tspan x="240.2" y="0">tudies</tspan></text>
@@ -510,14 +510,14 @@
       <g id="dates">
         <text class="cls-64" transform="translate(362.9 329.7)">01<tspan x="-12.1" y="25.2">2018</tspan></text>
         <text class="cls-64" transform="translate(361.4 589.7)"><tspan class="cls-65">0</tspan><tspan x="12.4" y="0">7</tspan><tspan x="-10.8" y="25.2">20</tspan><tspan class="cls-66" x="13.6" y="25.2">1</tspan><tspan x="23.2" y="25.2">7</tspan></text>
-        <text class="cls-64" transform="translate(362.9 839.7)">01<tspan x="-11.3" y="25.2">20</tspan><tspan class="cls-66" x="13.1" y="25.2">1</tspan><tspan x="22.6" y="25.2">7</tspan></text>
+        <text class="cls-64" transform="translate(361.9 840.7)">01<tspan x="-11.3" y="25.2">20</tspan><tspan class="cls-66" x="13.1" y="25.2">1</tspan><tspan x="22.6" y="25.2">7</tspan></text>
         <text class="cls-64" transform="translate(360.5 1585.7)">06<tspan x="-10.7" y="25.2">2016</tspan></text>
         <text class="cls-64" transform="translate(362.4 1340.7)"><tspan class="cls-65">0</tspan><tspan x="12.4" y="0">7</tspan><tspan x="-11.6" y="25.2">2016</tspan></text>
         <text class="cls-64" transform="translate(357.6 1092.7)">08<tspan x="-10.8" y="25.2">2016</tspan></text>
-        <text class="cls-64" transform="translate(363.9 1839.7)">01<tspan x="-12.1" y="25.2">2016</tspan></text>
+        <text class="cls-64" transform="translate(362.9 1841.7)">01<tspan x="-12.1" y="25.2">2016</tspan></text>
         <text class="cls-64" transform="translate(361.6 2097.7)">08<tspan x="-10.3" y="25.2">2014</tspan></text>
         <text class="cls-64" transform="translate(364.1 2341.7)">02<tspan x="-11.9" y="25.2">20</tspan><tspan class="cls-65" x="12.5" y="25.2">0</tspan><tspan x="24.9" y="25.2">7</tspan></text>
-        <text id="_02_2006_" data-name="022006" class="cls-64" transform="translate(365.6 2576.7)">12<tspan x="-14.3" y="25.2">2006</tspan></text>
+        <text id="_02_2006_" data-name="022006" class="cls-64" transform="translate(364.6 2578.7)">12<tspan x="-14.3" y="25.2">2006</tspan></text>
       </g>
     </g>
   </g>

@@ -1,0 +1,501 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 753 2806.5">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        font-size: 21px;
+        fill: #919191;
+      }
+
+      .cls-2, .cls-42 {
+        font-family: Raleway-SemiBold, Raleway;
+        font-weight: 600;
+      }
+
+      .cls-3 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-9 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-10 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-11 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-12 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-15 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-16 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-17 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-18 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-19 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-20 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-21 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-22 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-23 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-24 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-25 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-26, .cls-42 {
+        fill: #999;
+      }
+
+      .cls-27 {
+        mask: url(#mask);
+      }
+
+      .cls-28 {
+        opacity: 0.75;
+        mix-blend-mode: screen;
+      }
+
+      .cls-29 {
+        fill: #fff;
+      }
+
+      .cls-30 {
+        mask: url(#mask-2);
+      }
+
+      .cls-31 {
+        mask: url(#mask-3);
+      }
+
+      .cls-32 {
+        mask: url(#mask-4);
+      }
+
+      .cls-33 {
+        mask: url(#mask-5);
+      }
+
+      .cls-34 {
+        mask: url(#mask-6);
+      }
+
+      .cls-35 {
+        mask: url(#mask-7);
+      }
+
+      .cls-36 {
+        mask: url(#mask-8);
+      }
+
+      .cls-37 {
+        mask: url(#mask-9);
+      }
+
+      .cls-38 {
+        mask: url(#mask-10);
+      }
+
+      .cls-39 {
+        opacity: 0.79;
+        filter: url(#AI_GaussianBlur_7);
+      }
+
+      .cls-40 {
+        fill: #c4c4c4;
+      }
+
+      .cls-41 {
+        fill: #f9f9f9;
+      }
+
+      .cls-42 {
+        font-size: 23px;
+      }
+
+      .cls-43 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-44 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-45 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-46 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-47 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-48 {
+        letter-spacing: -0.05em;
+      }
+
+      .cls-49 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-50 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-51 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-52 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-53 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-54 {
+        letter-spacing: 0em;
+      }
+
+      .cls-55 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-56 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-57 {
+        letter-spacing: 0em;
+      }
+
+      .cls-58 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-59 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-60 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-61 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-62 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-63 {
+        letter-spacing: -0.11em;
+      }
+
+      .cls-64 {
+        filter: url(#luminosity-invert);
+      }
+    </style>
+    <filter id="luminosity-invert" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feColorMatrix values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask" x="336" y="2547" width="76" height="76" maskUnits="userSpaceOnUse">
+      <g class="cls-64">
+        <g transform="translate(-38 -180)">
+          <use transform="translate(374 2727)" xlink:href="#image"/>
+        </g>
+      </g>
+    </mask>
+    <image id="image" width="76" height="76" xlink:href="data:image/png;base64,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"/>
+    <mask id="mask-2" x="337" y="2311" width="76" height="76" maskUnits="userSpaceOnUse">
+      <g class="cls-64">
+        <g transform="translate(-38 -180)">
+          <use transform="translate(375 2491)" xlink:href="#image"/>
+        </g>
+      </g>
+    </mask>
+    <mask id="mask-3" x="337" y="2069" width="76" height="76" maskUnits="userSpaceOnUse">
+      <g class="cls-64">
+        <g transform="translate(-38 -180)">
+          <use transform="translate(375 2249)" xlink:href="#image"/>
+        </g>
+      </g>
+    </mask>
+    <mask id="mask-4" x="337" y="1812" width="76" height="76" maskUnits="userSpaceOnUse">
+      <g class="cls-64">
+        <g transform="translate(-38 -180)">
+          <use transform="translate(375 1992)" xlink:href="#image"/>
+        </g>
+      </g>
+    </mask>
+    <mask id="mask-5" x="335" y="1556" width="76" height="76" maskUnits="userSpaceOnUse">
+      <g class="cls-64">
+        <g transform="translate(-38 -180)">
+          <use transform="translate(373 1736)" xlink:href="#image"/>
+        </g>
+      </g>
+    </mask>
+    <mask id="mask-6" x="335" y="1310" width="76" height="76" maskUnits="userSpaceOnUse">
+      <g class="cls-64">
+        <g transform="translate(-38 -180)">
+          <use transform="translate(373 1490)" xlink:href="#image"/>
+        </g>
+      </g>
+    </mask>
+    <mask id="mask-7" x="335" y="1063" width="76" height="76" maskUnits="userSpaceOnUse">
+      <g class="cls-64">
+        <g transform="translate(-38 -180)">
+          <use transform="translate(373 1243)" xlink:href="#image"/>
+        </g>
+      </g>
+    </mask>
+    <mask id="mask-8" x="335" y="810" width="76" height="76" maskUnits="userSpaceOnUse">
+      <g class="cls-64">
+        <g transform="translate(-38 -180)">
+          <use transform="translate(373 990)" xlink:href="#image"/>
+        </g>
+      </g>
+    </mask>
+    <mask id="mask-9" x="335" y="560" width="76" height="76" maskUnits="userSpaceOnUse">
+      <g class="cls-64">
+        <g transform="translate(-38 -180)">
+          <use transform="translate(373 740)" xlink:href="#image"/>
+        </g>
+      </g>
+    </mask>
+    <mask id="mask-10" x="335" y="302" width="76" height="76" maskUnits="userSpaceOnUse">
+      <g class="cls-64">
+        <g transform="translate(-38 -180)">
+          <use transform="translate(373 482)" xlink:href="#image"/>
+        </g>
+      </g>
+    </mask>
+    <filter id="AI_GaussianBlur_7" name="AI_GaussianBlur_7">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+  </defs>
+  <title>CV-timeline-color2</title>
+  <g class="cls-1">
+    <g id="Tasks">
+      <text id="Task4" class="cls-2" transform="translate(122 1103) scale(0.75 1)"><tspan class="cls-3">A</tspan><tspan x="14" y="0">ssistan</tspan><tspan class="cls-4" x="82.5" y="0">c</tspan><tspan x="94.1" y="0">e in </tspan><tspan class="cls-4" x="134.6" y="0">M</tspan><tspan x="152.8" y="0">ar</tspan><tspan class="cls-5" x="172.4" y="0">k</tspan><tspan class="cls-6" x="183.4" y="0">e</tspan><tspan x="195.8" y="0">ting</tspan></text>
+      <text id="Task10" class="cls-2" transform="translate(71.4 2593) scale(0.75 1)"><tspan class="cls-4">M</tspan><tspan x="18.2" y="0">as</tspan><tspan class="cls-7" x="40.4" y="0">t</tspan><tspan x="47.9" y="0">e</tspan><tspan class="cls-8" x="60.4" y="0">r</tspan><tspan x="67.7" y="0" xml:space="preserve"> De</tspan><tspan class="cls-9" x="100.4" y="0">r</tspan><tspan x="107.7" y="0">ee Cultu</tspan><tspan class="cls-10" x="191.9" y="0">r</tspan><tspan x="199.6" y="0">a</tspan><tspan class="cls-11" x="211.4" y="0">l</tspan><tspan x="217.1" y="0" xml:space="preserve">  </tspan><tspan class="cls-3" x="227.5" y="0">S</tspan><tspan x="240.2" y="0">tudies</tspan></text>
+      <text id="Task9" class="cls-2" transform="translate(445.8 2355) scale(0.75 1)">Sales and <tspan class="cls-4" x="102" y="0">M</tspan><tspan x="120.2" y="0">ar</tspan><tspan class="cls-12" x="139.9" y="0">k</tspan><tspan class="cls-13" x="150.8" y="0">e</tspan><tspan x="163.3" y="0">ting Specialist </tspan><tspan x="47.4" y="28">&amp;</tspan><tspan class="cls-11" x="62.1" y="28"> </tspan><tspan x="66.6" y="28">Arts</tspan><tspan class="cls-14" x="106.7" y="28"> </tspan><tspan class="cls-15" x="111.3" y="28">A</tspan><tspan x="125.1" y="28">dminist</tspan><tspan class="cls-16" x="198.8" y="28">r</tspan><tspan class="cls-6" x="206.5" y="28">a</tspan><tspan x="218.3" y="28">tion </tspan></text>
+      <text id="Task8" class="cls-2" transform="translate(90 2106) scale(0.75 1)">P<tspan class="cls-17" x="13.1" y="0">r</tspan><tspan x="20.4" y="0">oject Finan</tspan><tspan class="cls-4" x="129.5" y="0">c</tspan><tspan x="141.2" y="0">e Coo</tspan><tspan class="cls-17" x="198.5" y="0">r</tspan><tspan x="205.8" y="0">din</tspan><tspan class="cls-13" x="236.8" y="0">a</tspan><tspan class="cls-7" x="248.6" y="0">t</tspan><tspan x="256" y="0">o</tspan><tspan class="cls-8" x="268.6" y="0">r</tspan></text>
+      <text id="Task7" class="cls-2" transform="translate(448.2 1865) scale(0.75 1)">Sales and <tspan class="cls-4" x="102" y="0">M</tspan><tspan x="120.2" y="0">ar</tspan><tspan class="cls-5" x="139.9" y="0">k</tspan><tspan class="cls-6" x="150.8" y="0">e</tspan><tspan x="163.3" y="0">ting Specialist</tspan></text>
+      <text id="Task6" class="cls-2" transform="translate(22.8 1594) scale(0.75 1)"><tspan class="cls-3">A</tspan><tspan x="14" y="0">ssistan</tspan><tspan class="cls-4" x="82.5" y="0">c</tspan><tspan x="94.1" y="0">e in Socia</tspan><tspan class="cls-11" x="188.7" y="0">l</tspan><tspan x="194.4" y="0"> </tspan><tspan class="cls-10" x="199.6" y="0">M</tspan><tspan x="217.7" y="0">edia </tspan><tspan class="cls-4" x="265.7" y="0">M</tspan><tspan x="283.9" y="0">ar</tspan><tspan class="cls-5" x="303.5" y="0">k</tspan><tspan class="cls-6" x="314.5" y="0">e</tspan><tspan x="326.9" y="0">ting</tspan></text>
+      <text id="Task5" class="cls-2" transform="translate(447.4 1347) scale(0.75 1)">Digita<tspan class="cls-11" x="58" y="0">l</tspan><tspan x="63.6" y="0" xml:space="preserve"> Co</tspan><tspan class="cls-4" x="95.8" y="0">n</tspan><tspan class="cls-7" x="108.3" y="0">t</tspan><tspan x="115.7" y="0">e</tspan><tspan class="cls-4" x="128.2" y="0">n</tspan><tspan x="140.6" y="0">t I</tspan><tspan class="cls-4" x="159.2" y="0">n</tspan><tspan class="cls-7" x="171.7" y="0">t</tspan><tspan x="179.1" y="0">ern</tspan></text>
+      <text id="Task3" class="cls-2" transform="translate(445.7 850) scale(0.75 1)"><tspan class="cls-15">A</tspan><tspan x="13.9" y="0">dding </tspan><tspan class="cls-4" x="76.6" y="0">c</tspan><tspan x="88.3" y="0">o</tspan><tspan class="cls-4" x="100.9" y="0">n</tspan><tspan class="cls-7" x="113.3" y="0">t</tspan><tspan x="120.8" y="0">e</tspan><tspan class="cls-4" x="133.3" y="0">n</tspan><tspan x="145.7" y="0">t in</tspan><tspan class="cls-18" x="176.2" y="0"> </tspan><tspan x="180.8" y="0">TYPO3 CMS</tspan></text>
+      <text id="Task2" class="cls-2" transform="translate(133.9 594) scale(0.75 1)"><tspan class="cls-15">R</tspan><tspan x="13.6" y="0">edesign </tspan><tspan class="cls-19" x="98.4" y="0">o</tspan><tspan class="cls-20" x="110.8" y="0">f</tspan><tspan x="117.9" y="0" xml:space="preserve"> a</tspan><tspan class="cls-12" x="134.9" y="0"> </tspan><tspan class="cls-21" x="139.5" y="0">w</tspan><tspan x="156.6" y="0">ebsi</tspan><tspan class="cls-7" x="197.7" y="0">t</tspan><tspan x="205.2" y="0">e</tspan></text>
+      <text id="Task1" class="cls-2" transform="translate(447.7 338) scale(0.75 1)">Multimedia Design and Communic<tspan class="cls-6" x="342.6" y="0">a</tspan><tspan x="354.4" y="0">tion</tspan><tspan x="19.7" y="28">2</tspan><tspan class="cls-18" x="31.2" y="28"> </tspan><tspan class="cls-22" x="35.8" y="28">y</tspan><tspan x="46.9" y="28">ears</tspan><tspan class="cls-14" x="89.5" y="28"> </tspan><tspan class="cls-23" x="94.1" y="28">A</tspan><tspan x="107.9" y="28">cade</tspan><tspan class="cls-24" x="157.4" y="28">m</tspan><tspan class="cls-12" x="176.6" y="28">y</tspan><tspan x="187.5" y="28" xml:space="preserve"> P</tspan><tspan class="cls-17" x="205.8" y="28">r</tspan><tspan class="cls-25" x="213.1" y="28">o</tspan><tspan class="cls-17" x="225.6" y="28">f</tspan><tspan x="232.5" y="28">ession deg</tspan><tspan class="cls-9" x="340.4" y="28">r</tspan><tspan x="347.7" y="28">ee</tspan></text>
+    </g>
+    <g id="greyBubbles">
+      <g id="Bubble10">
+        <circle class="cls-26" cx="374" cy="2585" r="36"/>
+        <g class="cls-27">
+          <g class="cls-28">
+            <circle class="cls-29" cx="374" cy="2585" r="36"/>
+          </g>
+        </g>
+      </g>
+      <g id="Bubble9">
+        <circle class="cls-26" cx="375" cy="2349" r="36"/>
+        <g class="cls-30">
+          <g class="cls-28">
+            <circle class="cls-29" cx="375" cy="2349" r="36"/>
+          </g>
+        </g>
+      </g>
+      <g id="Bubble8">
+        <circle class="cls-26" cx="375" cy="2107" r="36"/>
+        <g class="cls-31">
+          <g class="cls-28">
+            <circle class="cls-29" cx="375" cy="2107" r="36"/>
+          </g>
+        </g>
+      </g>
+      <g id="Bubble7">
+        <circle class="cls-26" cx="375" cy="1850" r="36"/>
+        <g class="cls-32">
+          <g class="cls-28">
+            <circle class="cls-29" cx="375" cy="1850" r="36"/>
+          </g>
+        </g>
+      </g>
+      <g id="Bubble6">
+        <circle class="cls-26" cx="373" cy="1594" r="36"/>
+        <g class="cls-33">
+          <g class="cls-28">
+            <circle class="cls-29" cx="373" cy="1594" r="36"/>
+          </g>
+        </g>
+      </g>
+      <g id="Bubble5">
+        <circle class="cls-26" cx="373" cy="1348" r="36"/>
+        <g class="cls-34">
+          <g class="cls-28">
+            <circle class="cls-29" cx="373" cy="1348" r="36"/>
+          </g>
+        </g>
+      </g>
+      <g id="Bubble4">
+        <circle class="cls-26" cx="373" cy="1101" r="36"/>
+        <g class="cls-35">
+          <g class="cls-28">
+            <circle class="cls-29" cx="373" cy="1101" r="36"/>
+          </g>
+        </g>
+      </g>
+      <g id="Bubble3">
+        <circle class="cls-26" cx="373" cy="848" r="36"/>
+        <g class="cls-36">
+          <g class="cls-28">
+            <circle class="cls-29" cx="373" cy="848" r="36"/>
+          </g>
+        </g>
+      </g>
+      <g id="Bubble2">
+        <circle class="cls-26" cx="373" cy="598" r="36"/>
+        <g class="cls-37">
+          <g class="cls-28">
+            <circle class="cls-29" cx="373" cy="598" r="36"/>
+          </g>
+        </g>
+      </g>
+      <g id="Bubble2-2" data-name="Bubble2">
+        <circle class="cls-26" cx="373" cy="340" r="36"/>
+        <g class="cls-38">
+          <g class="cls-28">
+            <circle class="cls-29" cx="373" cy="340" r="36"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="whiteElipses">
+      <g id="shadow2" class="cls-39">
+        <ellipse class="cls-40" cx="600.5" cy="601.5" rx="152.5" ry="104"/>
+      </g>
+      <ellipse id="whiteEl2" class="cls-41" cx="596" cy="593" rx="147" ry="100"/>
+      <g id="shadow3" class="cls-39">
+        <ellipse class="cls-40" cx="154.5" cy="851.5" rx="152.5" ry="104"/>
+      </g>
+      <ellipse id="whiteEl3" class="cls-41" cx="150" cy="843" rx="147" ry="100"/>
+      <g id="shadow4" class="cls-39">
+        <ellipse class="cls-40" cx="599.5" cy="1101.5" rx="152.5" ry="104"/>
+      </g>
+      <ellipse id="whiteEl4" class="cls-41" cx="595" cy="1093" rx="147" ry="100"/>
+      <g id="shadow5" class="cls-39">
+        <ellipse class="cls-40" cx="154.5" cy="1352.5" rx="152.5" ry="104"/>
+      </g>
+      <ellipse id="whiteEl5" class="cls-41" cx="150" cy="1344" rx="147" ry="100"/>
+      <g id="shadow6" class="cls-39">
+        <ellipse class="cls-40" cx="600.5" cy="1601.5" rx="152.5" ry="104"/>
+      </g>
+      <ellipse id="whiteEl6" class="cls-41" cx="596" cy="1593" rx="147" ry="100"/>
+      <g id="shadow7" class="cls-39">
+        <ellipse class="cls-40" cx="155.5" cy="1851.5" rx="152.5" ry="104"/>
+      </g>
+      <ellipse id="whiteEl7" class="cls-41" cx="151" cy="1843" rx="147" ry="100"/>
+      <g id="shadow8" class="cls-39">
+        <ellipse class="cls-40" cx="599.5" cy="2100.5" rx="152.5" ry="104"/>
+      </g>
+      <ellipse id="whiteEl8" class="cls-41" cx="595" cy="2092" rx="147" ry="100"/>
+      <g id="shadow9" class="cls-39">
+        <ellipse class="cls-40" cx="152.5" cy="2353.5" rx="152.5" ry="104"/>
+      </g>
+      <ellipse id="whiteEl9" class="cls-41" cx="148" cy="2345" rx="147" ry="100"/>
+      <g id="shadow10" class="cls-39">
+        <ellipse class="cls-40" cx="599.5" cy="2592.5" rx="152.5" ry="104"/>
+      </g>
+      <ellipse id="whiteEl10" class="cls-41" cx="595" cy="2584" rx="147" ry="100"/>
+      <g id="shadow1" class="cls-39">
+        <ellipse class="cls-40" cx="154.5" cy="341.5" rx="152.5" ry="104"/>
+      </g>
+      <ellipse id="whiteEl1" class="cls-41" cx="150" cy="333" rx="147" ry="100"/>
+    </g>
+    <g id="Places">
+      <text id="Place10" class="cls-42" transform="translate(504.5 2593.8) scale(0.75 1)">Uni<tspan class="cls-43" x="36.6" y="0">v</tspan><tspan x="48.7" y="0">ersit</tspan><tspan class="cls-44" x="96.4" y="0">y</tspan><tspan x="108.3" y="0"> </tspan><tspan class="cls-45" x="114" y="0">o</tspan><tspan class="cls-46" x="127.7" y="0">f</tspan><tspan class="cls-47" x="135.4" y="0"> </tspan><tspan class="cls-48" x="140.3" y="0">W</tspan><tspan x="163.3" y="0">ars</tspan><tspan class="cls-49" x="196.3" y="0">a</tspan><tspan class="cls-44" x="208.9" y="0">w</tspan></text>
+      <text id="Place9" class="cls-42" transform="translate(89 2358.2) scale(0.75 1)"><tspan class="cls-50">P</tspan><tspan x="14.1" y="0">olin Museum</tspan></text>
+      <text id="Place8" class="cls-42" transform="translate(490.7 2107.8) scale(0.75 1)"><tspan class="cls-51">N</tspan><tspan class="cls-49" x="17.5" y="0">e</tspan><tspan class="cls-44" x="30.8" y="0">w</tspan><tspan x="49.3" y="0"> </tspan><tspan class="cls-51" x="55" y="0">H</tspan><tspan x="71.9" y="0">ori</tspan><tspan class="cls-49" x="99.9" y="0">z</tspan><tspan x="111" y="0">ons</tspan><tspan class="cls-52" x="149.9" y="0"> </tspan><tspan class="cls-53" x="154.9" y="0">A</tspan><tspan x="170.3" y="0">ssoci</tspan><tspan class="cls-54" x="225.4" y="0">a</tspan><tspan x="238.3" y="0">tion</tspan></text>
+      <text id="Place7" class="cls-42" transform="translate(57 1838.2) scale(0.75 1)"><tspan class="cls-55">A</tspan><tspan class="cls-56" x="15.2" y="0">cc</tspan><tspan x="40.7" y="0">ou</tspan><tspan class="cls-57" x="68.5" y="0">n</tspan><tspan x="82.2" y="0">ting and </tspan><tspan class="cls-46" x="177.1" y="0">L</tspan><tspan x="190" y="0">ega</tspan><tspan class="cls-58" x="231.1" y="0">l</tspan><tspan x="237.4" y="0"> </tspan><tspan x="38.7" y="28">Servi</tspan><tspan class="cls-57" x="93.1" y="28">c</tspan><tspan x="105.8" y="28">es Offi</tspan><tspan class="cls-57" x="172.2" y="28">c</tspan><tspan x="185" y="28">e</tspan></text>
+      <text id="Place6" class="cls-42" transform="translate(555 1595.7) scale(0.75 1)">Læ<tspan class="cls-59" x="34.9" y="0">r</tspan><tspan x="42.9" y="0">dansk</tspan></text>
+      <text id="Place5" class="cls-42" transform="translate(70.1 1346.8) scale(0.75 1)">Vita Copenhagen <tspan x="47.6" y="28">(Umag</tspan><tspan class="cls-55" x="120.5" y="28">e</tspan><tspan x="133.8" y="28">)</tspan></text>
+      <text id="Place4" class="cls-42" transform="translate(483.3 1102.8) scale(0.75 1)"><tspan class="cls-60">K</tspan><tspan x="14.8" y="0">ulturhus</tspan><tspan class="cls-54" x="105.9" y="0">e</tspan><tspan x="119.5" y="0">t </tspan><tspan class="cls-56" x="133.6" y="0">I</tspan><tspan x="139.8" y="0">slands Br</tspan><tspan class="cls-61" x="240.7" y="0">y</tspan><tspan x="252.8" y="0">gge</tspan></text>
+      <text id="Place3" class="cls-42" transform="translate(60.1 850.8) scale(0.75 1)"><tspan class="cls-59">K</tspan><tspan x="14.6" y="0">openhagen</tspan><tspan class="cls-52" x="138.9" y="0"> </tspan><tspan x="143.8" y="0">Art Guide</tspan></text>
+      <text id="Place2" class="cls-42" transform="translate(520.2 597.8) scale(0.75 1)">Karin Blach Nielsen <tspan x="57.2" y="28">Ce</tspan><tspan class="cls-51" x="86.7" y="28">r</tspan><tspan x="95.1" y="28">amist</tspan></text>
+      <text id="Place1" class="cls-42" transform="translate(133.6 310.8) scale(0.75 1)">KE<tspan class="cls-52" x="29" y="0">A</tspan><tspan x="43.9" y="0"> </tspan><tspan x="-88.2" y="28">Copenhagen Schoo</tspan><tspan class="cls-52" x="125.8" y="28">l</tspan><tspan x="132.1" y="28"> </tspan><tspan class="cls-45" x="-118.6" y="56">o</tspan><tspan class="cls-46" x="-104.9" y="56">f</tspan><tspan x="-97.2" y="56" xml:space="preserve"> Design and</tspan><tspan class="cls-62" x="30.8" y="56"> </tspan><tspan class="cls-63" x="35.9" y="56">T</tspan><tspan x="47.4" y="56">echnolog</tspan><tspan class="cls-44" x="150.5" y="56">y</tspan></text>
+    </g>
+    <g id="timeline">
+      <path id="Line" class="cls-26" d="M411,195.3V2986.5h3V195.2A6.1,6.1,0,0,1,411,195.3Z" transform="translate(-38 -180)"/>
+      <polygon id="arrow" class="cls-26" points="374.5 0 351 61 398 61 374.5 0"/>
+    </g>
+  </g>
+</svg>

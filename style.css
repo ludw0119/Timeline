@@ -47,3 +47,28 @@ header a:link {
   color: #888888;
   font-weight: bold;
 }
+
+.stoneGrey {
+  animation-play-state: running;
+  animation-fill-mode: backwards;
+  animation: stoneGrey ease-in-out 0.7s 1;
+}
+
+@keyframes stoneGrey {
+  0% {
+    fill: #ffffff;
+  }
+  50% {
+    fill: #dddddd;
+  }
+  100% {
+    fill: #ffffff;
+  }
+}
+
+/*
+@keyframes stoneBigger {
+  0%   {transform: scale(1);}
+  50%  {transform: scale(1.5);}
+  100% {transform: scale(2);}
+}*/
