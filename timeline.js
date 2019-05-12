@@ -3,7 +3,7 @@ window.addEventListener("DOMContentLoaded", loadSVG);
 function loadSVG() {
   //console.log("Load the SVG");
 
-  fetch("CV-timeline-color3.svg")
+  fetch("CV-timeline-color4.svg")
     .then(response => response.text())
     .then(svgdata => {
       //console.log("The SVG data is:");
@@ -23,10 +23,6 @@ function loadSVG() {
           element.addEventListener("mouseout", whiteEllipseGreyOff);
         });
       }
-
-      /*function functionalert() {
-        alert("this is alert");
-      }*/
 
       function whiteEllipseGrey() {
         this.classList.add("stoneGrey");
@@ -60,7 +56,51 @@ function loadSVG() {
         this.style.color = "pink";
       }
 
+      //ukrycie jobdescription na onclick na tekst
+      function textClick() {
+        textPlace.forEach(element => {
+          element.addEventListener("click", jobDescription);
+        });
+      }
+
+      function jobDescription() {
+        let textItem = this.id;
+        let jobDescID = "#" + textItem.replace("Place", "jobdesc");
+        //console.log(jobDescription);
+        let jobDescObject = document.querySelector(jobDescID);
+        console.log(jobDescObject);
+        if (jobDescObject.classList.contains("visible")) {
+          jobDescObject.classList.remove("visible");
+        } else {
+          jobDescObject.classList.add("visible");
+        }
+
+        //alert("click");
+      }
+
       stoneGrey();
       textChangeEllipse();
+      textClick();
     });
+
+  function jobDescriptionOff() {
+    if (this.classList.contains("visible")) {
+      //setTimeout(function() {
+      this.classList.remove("visible");
+      //}, 3000);
+    }
+  }
+
+  function Scroll() {
+    document.addEventListener("scroll", stoneGreyonscroll);
+  }
+
+  function stoneGreyonscroll() {
+    let whiteEllipse = document.querySelectorAll(".cls-28");
+    whiteEllipse.forEach(element => {
+      element.classList.add("stoneGrey");
+    });
+  }
+
+  Scroll();
 }
